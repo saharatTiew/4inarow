@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+android:background="@drawable/yellow_rectangle_shape"
+android:padding="15dp">
+    <Button
+            android:id="@+id/btPlayAgain_dialog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PLay Again"
+            android:textSize="20dp"
+            android:textColor="@color/darkgrey"
+    android:background="@drawable/white_rectangle_shape"/>
+<View android:layout_width="match_parent" android:layout_height="5dp"/>
+    <Button
+            android:id="@+id/btExit_dialog"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:text="Exit"
+            android:textSize="20dp"
+            android:textColor="@color/darkgrey"
+            android:background="@drawable/white_rectangle_shape"/>
+</LinearLayout>

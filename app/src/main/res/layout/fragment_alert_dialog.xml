@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/darkgrey">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/white_rectangle_shape"
+            android:padding="10dp"
+    >
+        <TextView
+                android:id="@+id/tvTitle_dialog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Title"
+                android:textSize="30dp"
+                android:textColor="@color/black"
+        />
+        <TextView
+                android:id="@+id/tvBody_dialog"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingEnd="5dp"
+                android:gravity="center"
+                android:text="Body"
+                android:textSize="18dp"
+                android:textColor="@color/darkgrey"
+        />
+        <View android:layout_width="wrap_content"
+              android:layout_height="10dp"
+              android:backgroundTint="@color/yellow"/>
+        <Button
+                android:id="@+id/btDone"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="Done"
+                android:textColor="@color/yellow"
+                android:textSize="20dp"
+                android:background="@drawable/black_rectangle_shape"
+        />
+    </LinearLayout>
+
+</RelativeLayout>

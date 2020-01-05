@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1C2020</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="darkgrey">#242929</color>
+    <color name="yellow">#F5C322</color>
+    <color name="violet">#9C64F1</color>
+    <color name="white">#ffff</color>
+    <color name="black">#F000</color>
+    <color name="redChip">#FF0000</color>
+    <color name="yellowChip">#F2F20E</color>
+</resources>
