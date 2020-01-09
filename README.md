@@ -7,8 +7,8 @@
 
 ## Note
 
-We decide to delete api url. So, you can simply log in without inputting any username.
-For the convenience, we decide to not providing password system to not worry much on hashing function
+- We decide to delete api url. So, you can simply log in without inputting any username.
+- For the convenience, we decide to not providing password system to not worry much on hashing function
 
 ## Contributor
 https://github.com/sultanofendymion<br/>
