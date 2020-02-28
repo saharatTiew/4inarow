@@ -11,7 +11,7 @@
 - For the convenience, we decide to not providing password system to not worry much on hashing function
 
 ## Contributor
-https://github.com/sultanofendymion<br/>
+https://github.com/saharatTiew<br/>
 https://github.com/balloon17547
 
 ## Credit
